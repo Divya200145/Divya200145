@@ -2,7 +2,7 @@
 <h3 align="center">Senior AI/ML Engineer · LLMOps · MLOps · Generative AI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bala-divya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/baladivya-aiml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS_ML_Specialty-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_AI_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-Certified-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
